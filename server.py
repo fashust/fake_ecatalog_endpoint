@@ -40,6 +40,9 @@ def product():
             {'url': 'https://catalog.openprocurement.org.ua/catalog/product121.json'},
             {'url': 'https://catalog.openprocurement.org.ua/catalog/product122.json'},
             {'url': 'https://catalog.openprocurement.org.ua/catalog/product999.json'},
+            {'url': 'https://catalog.openprocurement.org.ua/catalog/product301.json'},
+            {'url': 'https://catalog.openprocurement.org.ua/catalog/product321.json'},
+            {'url': 'https://catalog.openprocurement.org.ua/catalog/product322.json'},
         ]
     })
 
@@ -64,6 +67,10 @@ def offer():
             {'url': 'https://catalog.openprocurement.org.ua/catalog/offer00112.json'},
             {'url': 'https://catalog.openprocurement.org.ua/catalog/offer00121.json'},
             {'url': 'https://catalog.openprocurement.org.ua/catalog/offer00122.json'},
+            {'url': 'https://catalog.openprocurement.org.ua/catalog/offer00301.json'},
+            {'url': 'https://catalog.openprocurement.org.ua/catalog/offer00302.json'},
+            {'url': 'https://catalog.openprocurement.org.ua/catalog/offer00321.json'},
+            {'url': 'https://catalog.openprocurement.org.ua/catalog/offer00322.json'},
         ]
     })
 
